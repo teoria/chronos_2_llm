@@ -1,0 +1,15 @@
+[project]
+name = "chronos-llm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "catboost>=1.2.10",
+    "lightgbm>=4.7.0",
+    "peft>=0.21.2",
+    "scikit-learn>=1.9.1",
+    "scikit-posthocs>=0.17.1",
+    "statsmodels>=0.15.0",
+    "xgboost>=3.4.1",
+]
