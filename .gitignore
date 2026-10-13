@@ -10,3 +10,4 @@ wheels/
 .venv
 data/*_pred.parquet
 catboost_info/
+.env
